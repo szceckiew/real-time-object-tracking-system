@@ -1,0 +1,12 @@
+train: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_train\train/images
+val: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_val\valid\images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: workspace1-3gwuj
+  project: aerial-car-detection-jca4t-jtccd-tqhsy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace1-3gwuj/aerial-car-detection-jca4t-jtccd-tqhsy/dataset/1

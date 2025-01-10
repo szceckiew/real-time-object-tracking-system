@@ -1,0 +1,12 @@
+train: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_val/train/images
+val: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_val/valid/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: workspace1-3gwuj
+  project: aerial_cars_val
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace1-3gwuj/aerial_cars_val/dataset/1

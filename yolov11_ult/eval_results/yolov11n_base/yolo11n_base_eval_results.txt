@@ -1,0 +1,24 @@
+090744-2_png.rf.9f1b25836db315cf0b78605d66bcb5cd.txt - Precision: 0.0000, Recall: 0.0000
+11062b_ea007ea075cc41419e5ca975cc21dd54-mv2_jpg.rf.f6b70f12dd2de44f30e6b89cd8193096.txt - Precision: 0.8889, Recall: 0.7619
+167050_r0_940_jpg.rf.eea722b333e15a10583c5a902e1baf80.txt - Precision: 0.0000, Recall: 0.0000
+3762402__kr_webp.rf.99c320345328f07c7d3f4c8537dd7ac8.txt - Precision: 1.0000, Recall: 0.2000
+5b151d936816fd133858aa805241aaa0_jpg.rf.89182509d9fd0137a45be9d2555c5d45.txt - Precision: 0.0000, Recall: 0.0000
+5dcd5e61583a0f4d752f3078_jpeg.rf.e202fad9ed2e3d19330a7af6235ad31e.txt - Precision: 0.8571, Recall: 0.8571
+6256b1fd517d8_o_medium_jpg.rf.f9f70e68ee86a5a7b45d5d4fe1387632.txt - Precision: 1.0000, Recall: 0.1690
+WIN_20241201_12_01_49_Pro_jpg.rf.d784c377ddb5a8c651cf0436f318e301.txt - Precision: 1.0000, Recall: 0.5000
+WIN_20241201_12_02_09_Pro_jpg.rf.7c58a69fcca82d0ed62b766d14a25497.txt - Precision: 1.0000, Recall: 0.6667
+WIN_20241201_12_02_19_Pro_jpg.rf.740543f3ae893313dd192835bbdc6fc8.txt - Precision: 0.9048, Recall: 0.6552
+WIN_20241201_12_02_27_Pro_jpg.rf.8ddd8719e13aac9c5dbc23bdaf62280b.txt - Precision: 1.0000, Recall: 0.6429
+aerial-vehicles-traveling_png.rf.46c17220d90413aef2a3f3c9e85c0440.txt - Precision: 0.0000, Recall: 0.0000
+car_traffic_in_the_city-Royalty_free_stock_photo_8565_jpg.rf.cff813b6fcf3dff221e6a2f8b3fe6012.txt - Precision: 0.0000, Recall: 0.0000
+cars_traffic_bucharest_-_photo_cateyeperspective_dreamstime-com__jpg.rf.6926761f4436e2eb1ebea00dd9d11582.txt - Precision: 0.6667, Recall: 1.0000
+depositphotos_651933424-stock-video-aerial-top-view-moving-cars_jpg.rf.4b6b0cc17e7bc35c6973b55546abb92a.txt - Precision: 1.0000, Recall: 0.5556
+dji-0181_jpg.rf.4f91b5cfffc9d6fd462840b4caaecb39.txt - Precision: 0.0000, Recall: 0.0000
+feature-done-86-1-_webp.rf.0ebcbd9f459bae2522ffbdf53b701a5b.txt - Precision: 0.0000, Recall: 0.0000
+parkowanie-678x381_webp.rf.8069a3120ce6d492cf31ed224c8f03a3.txt - Precision: 0.0000, Recall: 0.0000
+prawidlowe-wymiary-miejsca-parkingowego-parking_jpg.rf.731f283357fe92e8ee38ea54cc66e4e9.txt - Precision: 1.0000, Recall: 0.5556
+suggested-JxUjjCqODaqwB1Mtxhro_jpg.rf.b9f719511888a7a0c51d65209c8c2377.txt - Precision: 1.0000, Recall: 0.0455
+video_preview_0000-1-_avif.rf.f120b0cfb7abf2dff0244953f8649b4d.txt - Precision: 0.5000, Recall: 0.1200
+video_preview_0000_avif.rf.5c1da50e4df74b7e69d5e7a0a1338d39.txt - Precision: 0.0000, Recall: 0.0000
+z31318917AMP-Samochody-zdjecie-ilustracyjne-_jpg.rf.d042d1fb1cd1c7ae447b4383cb529847.txt - Precision: 0.0000, Recall: 0.0000
+Average Precision (AP): 0.1770

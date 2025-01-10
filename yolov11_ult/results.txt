@@ -1,0 +1,3 @@
+Class: tensor([0.]), Confidence: tensor([0.8547]), Box: tensor([[289.2734, 390.2616, 197.3614,  82.7989]])
+Class: tensor([0.]), Confidence: tensor([0.8494]), Box: tensor([[541.8777, 379.8827, 176.6289,  87.2800]])
+Class: tensor([0.]), Confidence: tensor([0.7976]), Box: tensor([[ 35.9949, 397.2440,  71.9897,  93.6560]])

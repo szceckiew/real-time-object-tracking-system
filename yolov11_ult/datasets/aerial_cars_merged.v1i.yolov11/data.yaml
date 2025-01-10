@@ -1,0 +1,13 @@
+train: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_merged.v1i.yolov11/train/images
+val: D:\intelliJ\pycharm_projects\yolov11_ult\datasets\aerial_cars_merged.v1i.yolov11/valid/images
+
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: workspace1-3gwuj
+  project: aerial_cars_merged
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace1-3gwuj/aerial_cars_merged/dataset/1
