@@ -1,0 +1,164 @@
+File: 090744-2_png.rf.9f1b25836db315cf0b78605d66bcb5cd.txt
+Matched Pairs: [(0, 3, 0.9023785618177373), (1, 1, 0.884940227639982), (2, 4, 0.8485846807117047), (3, 5, 0.9331003854852831), (4, 2, 0.8715630265328874), (5, 0, 0.8730984225451811), (6, 6, 0.7800453498717463)]
+Mean IoU: 0.8705
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 7
+
+File: 11062b_ea007ea075cc41419e5ca975cc21dd54-mv2_jpg.rf.f6b70f12dd2de44f30e6b89cd8193096.txt
+Matched Pairs: [(3, 1, 0.8693443793501314), (5, 0, 0.8616203695114665), (6, 7, 0.9221308086035056), (8, 6, 0.8413013405136568), (9, 2, 0.9056538670251889), (10, 3, 0.8337763073686644), (11, 5, 0.8269440949073764), (12, 8, 0.762615246386287), (17, 4, 0.8682608687738921), (19, 9, 0.8941708424374929)]
+Mean IoU: 0.4088
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 10
+
+File: 167050_r0_940_jpg.rf.eea722b333e15a10583c5a902e1baf80.txt
+Matched Pairs: []
+Mean IoU: 0.0000
+False Positives: 0
+False Negatives: 89
+Number of Matched Pairs: 0
+
+File: 3762402__kr_webp.rf.99c320345328f07c7d3f4c8537dd7ac8.txt
+Matched Pairs: [(3, 0, 0.9193476733983443)]
+Mean IoU: 0.0460
+False Positives: 0
+False Negatives: 19
+Number of Matched Pairs: 1
+
+File: 5b151d936816fd133858aa805241aaa0_jpg.rf.89182509d9fd0137a45be9d2555c5d45.txt
+Matched Pairs: [(3, 8, 0.8506745270844625), (6, 9, 0.9175658580189974), (8, 6, 0.8908385849642523), (12, 4, 0.8064792180155751), (13, 1, 0.9115809879298703), (16, 3, 0.8944741638385936), (17, 0, 0.8755812470410458), (24, 5, 0.8134980335622903), (25, 7, 0.9189842396778277), (27, 2, 0.8785320752215501)]
+Mean IoU: 0.2246
+False Positives: 0
+False Negatives: 29
+Number of Matched Pairs: 10
+
+File: 5dcd5e61583a0f4d752f3078_jpeg.rf.e202fad9ed2e3d19330a7af6235ad31e.txt
+Matched Pairs: [(3, 2, 0.8568422508531996), (4, 3, 0.9076752801937727), (5, 4, 0.7319325365710247), (6, 1, 0.7373737738925873)]
+Mean IoU: 0.4042
+False Positives: 1
+False Negatives: 3
+Number of Matched Pairs: 4
+
+File: 6256b1fd517d8_o_medium_jpg.rf.f9f70e68ee86a5a7b45d5d4fe1387632.txt
+Matched Pairs: [(23, 1, 0.5778128364326642), (46, 7, 0.723098177132012), (51, 6, 0.911745686279928), (58, 8, 0.8794181035649594), (59, 3, 0.8546830630604737), (60, 4, 0.5752939523557902), (69, 5, 0.8672844165388273)]
+Mean IoU: 0.0728
+False Positives: 3
+False Negatives: 64
+Number of Matched Pairs: 7
+
+File: WIN_20241201_12_01_49_Pro_jpg.rf.d784c377ddb5a8c651cf0436f318e301.txt
+Matched Pairs: []
+Mean IoU: 0.0000
+False Positives: 0
+False Negatives: 2
+Number of Matched Pairs: 0
+
+File: WIN_20241201_12_02_09_Pro_jpg.rf.7c58a69fcca82d0ed62b766d14a25497.txt
+Matched Pairs: [(0, 1, 0.8845313310556275), (1, 2, 0.6487798708955085), (2, 0, 0.8426339692330261)]
+Mean IoU: 0.7920
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 3
+
+File: WIN_20241201_12_02_19_Pro_jpg.rf.740543f3ae893313dd192835bbdc6fc8.txt
+Matched Pairs: [(1, 3, 0.609589643669345), (2, 2, 0.8306067470559008), (17, 0, 0.5877259754810932), (18, 1, 0.8391362203357159), (19, 4, 0.63277454117647)]
+Mean IoU: 0.1167
+False Positives: 1
+False Negatives: 24
+Number of Matched Pairs: 5
+
+File: WIN_20241201_12_02_27_Pro_jpg.rf.8ddd8719e13aac9c5dbc23bdaf62280b.txt
+Matched Pairs: [(0, 3, 0.8788247058308872), (1, 6, 0.8837921470369708), (2, 0, 0.9274642667771216), (3, 4, 0.8869925522218274), (4, 2, 0.8717381455067019), (5, 1, 0.8952261852829725), (7, 5, 0.937919016254445)]
+Mean IoU: 0.4487
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 7
+
+File: aerial-vehicles-traveling_png.rf.46c17220d90413aef2a3f3c9e85c0440.txt
+Matched Pairs: [(3, 8, 0.8195270823882571), (4, 2, 0.8803384726160703), (6, 3, 0.8544756973650182), (11, 9, 0.817186979296113), (12, 7, 0.873504768242999), (13, 1, 0.7851754864004625), (18, 6, 0.841957340498977), (24, 4, 0.8349928753326984)]
+Mean IoU: 0.2484
+False Positives: 2
+False Negatives: 17
+Number of Matched Pairs: 8
+
+File: car_traffic_in_the_city-Royalty_free_stock_photo_8565_jpg.rf.cff813b6fcf3dff221e6a2f8b3fe6012.txt
+Matched Pairs: [(0, 4, 0.7857849077528488), (3, 7, 0.852731279074438), (5, 5, 0.8923849589149185), (6, 1, 0.8645350891679001), (7, 2, 0.8331362981320064), (8, 8, 0.8659288258661385), (9, 6, 0.9597155224023542), (11, 9, 0.9327880717272974), (12, 3, 0.8567372418209822), (14, 0, 0.869552451386409)]
+Mean IoU: 0.5809
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 10
+
+File: cars_traffic_bucharest_-_photo_cateyeperspective_dreamstime-com__jpg.rf.6926761f4436e2eb1ebea00dd9d11582.txt
+Matched Pairs: [(0, 3, 0.7775646167783622), (1, 8, 0.8865672236189273), (2, 4, 0.8591616639090558), (3, 5, 0.9357235453046422), (4, 0, 0.8587251961196006), (5, 9, 0.7517088094620107), (6, 7, 0.8431380440838964), (7, 6, 0.918281563295706), (8, 2, 0.7749378245718591), (9, 1, 0.8498486899418732)]
+Mean IoU: 0.8456
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 10
+
+File: depositphotos_651933424-stock-video-aerial-top-view-moving-cars_jpg.rf.4b6b0cc17e7bc35c6973b55546abb92a.txt
+Matched Pairs: [(0, 0, 0.926579853482647), (1, 1, 0.9099996463048817), (7, 2, 0.9167234947627536), (8, 3, 0.8585046801352234)]
+Mean IoU: 0.2007
+False Positives: 0
+False Negatives: 14
+Number of Matched Pairs: 4
+
+File: dji-0181_jpg.rf.4f91b5cfffc9d6fd462840b4caaecb39.txt
+Matched Pairs: [(22, 2, 0.6591346742447577)]
+Mean IoU: 0.0137
+False Positives: 2
+False Negatives: 45
+Number of Matched Pairs: 1
+
+File: feature-done-86-1-_webp.rf.0ebcbd9f459bae2522ffbdf53b701a5b.txt
+Matched Pairs: [(0, 8, 0.8735233652634731), (3, 7, 0.8002384074055778), (5, 4, 0.8996302920931293), (7, 3, 0.854735445311339), (8, 6, 0.8358472408248819), (11, 9, 0.8204148567811417), (12, 2, 0.7795886332338166), (14, 5, 0.8812331185338328), (15, 1, 0.8489663879719406), (17, 0, 0.8535336603682003)]
+Mean IoU: 0.4693
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 10
+
+File: parkowanie-678x381_webp.rf.8069a3120ce6d492cf31ed224c8f03a3.txt
+Matched Pairs: [(0, 2, 0.8717152644164345), (1, 1, 0.9331684803829743), (2, 0, 0.7033453346462722)]
+Mean IoU: 0.8361
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 3
+
+File: prawidlowe-wymiary-miejsca-parkingowego-parking_jpg.rf.731f283357fe92e8ee38ea54cc66e4e9.txt
+Matched Pairs: [(0, 4, 0.91112394510441), (1, 6, 0.9072784596213183), (3, 2, 0.8182821976549085), (4, 1, 0.9155650431263282), (5, 0, 0.9013151467463881), (6, 3, 0.8078474111855634), (7, 5, 0.7641430262052674)]
+Mean IoU: 0.6695
+False Positives: 0
+False Negatives: 2
+Number of Matched Pairs: 7
+
+File: suggested-JxUjjCqODaqwB1Mtxhro_jpg.rf.b9f719511888a7a0c51d65209c8c2377.txt
+Matched Pairs: [(1, 5, 0.5735630091257), (11, 8, 0.8408930162042668), (14, 7, 0.8332818007619295), (32, 2, 0.5366723214828569), (33, 6, 0.8812753809181157), (34, 1, 0.5045316201486861), (36, 0, 0.6118520392423966), (38, 4, 0.8608665847791104)]
+Mean IoU: 0.1227
+False Positives: 2
+False Negatives: 36
+Number of Matched Pairs: 8
+
+File: video_preview_0000-1-_avif.rf.f120b0cfb7abf2dff0244953f8649b4d.txt
+Matched Pairs: [(1, 7, 0.6855123127309117), (4, 3, 0.7057709338738388), (8, 2, 0.6186967526354827), (12, 8, 0.8365145920704466), (13, 6, 0.6249146182544139), (16, 1, 0.7729292133909761)]
+Mean IoU: 0.1516
+False Positives: 3
+False Negatives: 19
+Number of Matched Pairs: 6
+
+File: video_preview_0000_avif.rf.5c1da50e4df74b7e69d5e7a0a1338d39.txt
+Matched Pairs: [(0, 6, 0.8768755323075109), (1, 5, 0.8417021325123013), (2, 1, 0.9053204672125887), (3, 4, 0.8062270281791933), (4, 0, 0.9330581941521742), (6, 7, 0.8902420533185325), (8, 3, 0.9254712471141777), (9, 2, 0.8683802137853722), (10, 9, 0.8728022035479328), (12, 8, 0.8338723043863104)]
+Mean IoU: 0.6734
+False Positives: 0
+False Negatives: 3
+Number of Matched Pairs: 10
+
+File: z31318917AMP-Samochody-zdjecie-ilustracyjne-_jpg.rf.d042d1fb1cd1c7ae447b4383cb529847.txt
+Matched Pairs: [(7, 2, 0.8981060781785029), (9, 4, 0.8440579892446244), (11, 1, 0.8883494659445876), (19, 3, 0.9150210363334975), (21, 6, 0.886514106911774), (22, 7, 0.8447971444594066), (23, 0, 0.8336542752336848), (24, 8, 0.6921580919798058), (25, 5, 0.8099615956976517), (26, 9, 0.7460144577055178)]
+Mean IoU: 0.2388
+False Positives: 0
+False Negatives: 25
+Number of Matched Pairs: 10
+
+Overall Mean IoU (weighted): 0.2478
+Total False Positives: 14
+Total False Negatives: 422

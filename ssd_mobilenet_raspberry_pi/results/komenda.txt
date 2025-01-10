@@ -1,0 +1,1 @@
+python detect_and_track_save.py --modeldir car_mobilenet/ --edgetpu --output results/video_from_webcam.mp4

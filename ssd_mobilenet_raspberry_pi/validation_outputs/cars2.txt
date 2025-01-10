@@ -1,0 +1,724 @@
+File: 090744-2_png.rf.aeea6dd12a8df04ca95e2a1b44860c79.txt
+Matched Pairs: [(0, 0, 0.924178274142664), (1, 1, 0.8782829392176078), (2, 4, 0.8626768544833396), (3, 3, 0.8973671609757209), (4, 6, 0.7023217140283523), (5, 2, 0.8640999838287466), (6, 5, 0.7286470150095237)]
+Mean IoU: 0.8368
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 7
+
+File: 11062b_ea007ea075cc41419e5ca975cc21dd54-mv2_jpg.rf.03c3d473cd55e6b11cc706e80a008005.txt
+Matched Pairs: [(3, 2, 0.9582185196263252), (5, 5, 0.869519785659687), (6, 4, 0.8595935164728163), (9, 0, 0.8566958077880651), (10, 8, 0.8214031261181514), (11, 1, 0.8638952908766631), (12, 9, 0.8831790035653831), (14, 7, 0.8505286530080604), (17, 6, 0.8377296834161441), (19, 3, 0.8166952258565614)]
+Mean IoU: 0.4104
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 10
+
+File: 167050_r0_940_jpg.rf.d660b5ef00399b557f038adf34b794ad.txt
+Matched Pairs: []
+Mean IoU: 0.0000
+False Positives: 0
+False Negatives: 89
+Number of Matched Pairs: 0
+
+File: 3762402__kr_webp.rf.be4395a832d1a7c73554a127cf86063f.txt
+Matched Pairs: [(3, 0, 0.6413877143209024)]
+Mean IoU: 0.0321
+False Positives: 0
+False Negatives: 19
+Number of Matched Pairs: 1
+
+File: 5b151d936816fd133858aa805241aaa0_jpg.rf.c4051aafe388e2f9ec37b446ddf8fd3c.txt
+Matched Pairs: [(3, 8, 0.8444567547785324), (12, 6, 0.7441347779104415), (13, 0, 0.8750696788007907), (16, 4, 0.8885987267197072), (17, 5, 0.8076430589473196), (24, 2, 0.9005234552859352), (25, 1, 0.8880426031340068), (26, 7, 0.9236945947138719), (27, 3, 0.8261188965204802), (28, 9, 0.8513882092854645)]
+Mean IoU: 0.2192
+False Positives: 0
+False Negatives: 29
+Number of Matched Pairs: 10
+
+File: 5dcd5e61583a0f4d752f3078_jpeg.rf.bd81c07fba0d920610bcb776da9812ba.txt
+Matched Pairs: [(3, 1, 0.8826294394499156), (4, 0, 0.853268981163576), (5, 3, 0.7377528156955339)]
+Mean IoU: 0.3092
+False Positives: 1
+False Negatives: 4
+Number of Matched Pairs: 3
+
+File: 6256b1fd517d8_o_medium_jpg.rf.3dfbf4fbfb8f099adc1af876c0804ede.txt
+Matched Pairs: [(58, 1, 0.7782864186455217), (60, 3, 0.6568416012765551), (61, 0, 0.7589027364417991), (69, 2, 0.6993034708528046)]
+Mean IoU: 0.0402
+False Positives: 1
+False Negatives: 67
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS74_cell_x0_y0_w640_h640_png.rf.35b02e4277c1cc9670529b566dece740.txt
+Matched Pairs: [(0, 0, 0.759138924945775), (2, 1, 0.78247677126333)]
+Mean IoU: 0.2569
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS74_cell_x1280_y0_w640_h640_png.rf.c86694008b19694fe7bf2e0ec4b32955.txt
+Matched Pairs: [(0, 0, 0.900891798594284), (9, 1, 0.7612904000539551)]
+Mean IoU: 0.1187
+False Positives: 0
+False Negatives: 12
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS74_cell_x1540_y0_w640_h640_png.rf.c664b2b0bb9d36941f49d1832f19dc7f.txt
+Matched Pairs: [(0, 0, 0.877436354561735)]
+Mean IoU: 0.1462
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS74_cell_x640_y0_w640_h640_png.rf.692f2054eded06ce05b41642108b2865.txt
+Matched Pairs: [(2, 2, 0.7834395099160438), (3, 3, 0.7473887461980249), (5, 0, 0.7898170268893555), (7, 1, 0.66200220405772)]
+Mean IoU: 0.2294
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS75_cell_x0_y0_w640_h640_png.rf.4c3d6dae3d852599af1585517bb83067.txt
+Matched Pairs: [(0, 0, 0.753648044980128), (2, 1, 0.8335294661407249)]
+Mean IoU: 0.3174
+False Positives: 0
+False Negatives: 3
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS75_cell_x1280_y0_w640_h640_png.rf.b505420766df25d5c9ee834791ca7c3d.txt
+Matched Pairs: [(0, 0, 0.8220541104770271), (8, 1, 0.8949287241255922)]
+Mean IoU: 0.1226
+False Positives: 0
+False Negatives: 12
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS75_cell_x1540_y0_w640_h640_png.rf.56866cd7606c3a9e283278ace0f19960.txt
+Matched Pairs: [(0, 0, 0.8274489487207478)]
+Mean IoU: 0.1182
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS75_cell_x640_y0_w640_h640_png.rf.8dd3b9f14914a40b509a5a412f2853e3.txt
+Matched Pairs: [(2, 4, 0.7011189927313511), (4, 1, 0.8091144098877926), (5, 5, 0.7400843817054412), (6, 2, 0.7106786926879692), (9, 3, 0.7128741431386845), (14, 0, 0.9060231722233777)]
+Mean IoU: 0.3053
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 6
+
+File: MunichStreet02-MOS76_cell_x0_y0_w640_h640_png.rf.e48f71134dd732e55350e506c6a68289.txt
+Matched Pairs: [(0, 0, 0.7076703925729804), (2, 1, 0.7221762765442562)]
+Mean IoU: 0.2383
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS76_cell_x1280_y0_w640_h640_png.rf.09afde8e92384b78edc372246738b300.txt
+Matched Pairs: [(0, 0, 0.9116926680722154), (8, 1, 0.6328596801454172), (9, 2, 0.715251108629877)]
+Mean IoU: 0.1614
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS76_cell_x1540_y0_w640_h640_png.rf.8eb575455f713fa1f69203d267985b3b.txt
+Matched Pairs: [(0, 0, 0.9610610176500557), (5, 1, 0.632866205071805)]
+Mean IoU: 0.1992
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS76_cell_x640_y0_w640_h640_png.rf.3bb7bb54b316eac1f6b823b9b66cb6ce.txt
+Matched Pairs: [(1, 5, 0.8514953332353684), (2, 6, 0.7055401837198909), (3, 8, 0.7774153459418985), (4, 4, 0.8287309982809488), (5, 2, 0.7627563397043657), (6, 1, 0.7232064635660619), (11, 7, 0.7369981476799465), (12, 0, 0.6662014448468084), (14, 3, 0.819680926403693)]
+Mean IoU: 0.4581
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS77_cell_x0_y0_w640_h640_png.rf.697371e2e61e7fb1d3defd1ba20dd163.txt
+Matched Pairs: [(0, 0, 0.8141527616938906)]
+Mean IoU: 0.1357
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS77_cell_x1280_y0_w640_h640_png.rf.2e87062afa485f23d27cc26b2793c945.txt
+Matched Pairs: [(0, 0, 0.8823062805079248), (4, 2, 0.6893867462735048), (8, 1, 0.6134282216337024)]
+Mean IoU: 0.1561
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS77_cell_x1540_y0_w640_h640_png.rf.14ce17bff0635a1f5f50ee4369d78c62.txt
+Matched Pairs: [(0, 0, 0.8694657138952441), (5, 1, 0.5945840684628494)]
+Mean IoU: 0.1830
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS77_cell_x640_y0_w640_h640_png.rf.5e2666d44fcfcbde49c6b7d5c9841abd.txt
+Matched Pairs: [(0, 0, 0.8340046993269572), (1, 7, 0.8959110627389115), (2, 5, 0.6137661385389335), (4, 1, 0.8069204117256922), (5, 4, 0.6739516332972966), (6, 8, 0.8057893994237224), (8, 2, 0.6955119143131229), (9, 6, 0.7038876567674234), (14, 3, 0.7418619493020807)]
+Mean IoU: 0.4514
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS78_cell_x0_y0_w640_h640_png.rf.4d074a52ad431c0a4be762c120d6b28c.txt
+Matched Pairs: [(0, 0, 0.8163632375764657)]
+Mean IoU: 0.1361
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS78_cell_x1280_y0_w640_h640_png.rf.981cb37d8e985e26ef6c7beaad1fa8e0.txt
+Matched Pairs: [(0, 0, 0.9136676821133398), (8, 1, 0.7807620901455413), (9, 2, 0.8427184120525165), (13, 3, 0.7674658060794162)]
+Mean IoU: 0.2360
+False Positives: 0
+False Negatives: 10
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS78_cell_x1540_y0_w640_h640_png.rf.2dd171b8c67e268bd3dbbe302035218c.txt
+Matched Pairs: [(0, 1, 0.8974389898182773), (5, 0, 0.756784289071466)]
+Mean IoU: 0.2068
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS78_cell_x640_y0_w640_h640_png.rf.ee9094813409d314cb976f0af74ccc8d.txt
+Matched Pairs: [(0, 0, 0.8133505594159682), (2, 4, 0.7692902789377365), (3, 7, 0.7619511448127207), (4, 5, 0.7883978127101884), (5, 2, 0.9209697572788129), (6, 6, 0.7519787998681571), (7, 3, 0.7630825766479893), (8, 8, 0.7344914679312244), (13, 1, 0.6984718247341848)]
+Mean IoU: 0.4668
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS79_cell_x0_y0_w640_h640_png.rf.7ff48c6c4ee57e30a2fe9dd309518a7c.txt
+Matched Pairs: [(0, 0, 0.8020889762403929)]
+Mean IoU: 0.1146
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS79_cell_x1280_y0_w640_h640_png.rf.018efa7c8cc6d41306347efa7a8a4643.txt
+Matched Pairs: [(0, 0, 0.9560774423310238), (7, 1, 0.8894271718426504), (8, 2, 0.8587727996365855)]
+Mean IoU: 0.2080
+False Positives: 0
+False Negatives: 10
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS79_cell_x1540_y0_w640_h640_png.rf.d034696d80d30528a2fbe4bcd04512b2.txt
+Matched Pairs: [(0, 1, 0.9625992955540881), (5, 0, 0.915774962349785)]
+Mean IoU: 0.2348
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS79_cell_x640_y0_w640_h640_png.rf.a73470ba0002e43c2426230c321c6d95.txt
+Matched Pairs: [(0, 2, 0.7666008648722106), (1, 8, 0.7897174053471882), (2, 0, 0.7383456253300749), (3, 5, 0.7633272528343887), (6, 6, 0.7233772245232203), (7, 3, 0.7952792484299415), (8, 4, 0.8154122359587146), (13, 7, 0.668114775470749), (15, 1, 0.8195664616549676)]
+Mean IoU: 0.4300
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS80_cell_x0_y0_w640_h640_png.rf.09a33fa40b678ec3367efc98d3cacd2d.txt
+Matched Pairs: [(4, 0, 0.7638500171066995)]
+Mean IoU: 0.1273
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS80_cell_x1280_y0_w640_h640_png.rf.6da3ddd5b423618ae99fb135466acbc4.txt
+Matched Pairs: [(0, 0, 0.8510665576500299), (7, 1, 0.7801792444904658), (8, 2, 0.8156154073188215), (10, 3, 0.7012907960008771)]
+Mean IoU: 0.2422
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS80_cell_x1540_y0_w640_h640_png.rf.090cc27c004230dd36bb302ebb5a700f.txt
+Matched Pairs: [(0, 1, 0.8854710466651446), (5, 0, 0.7946929606285807)]
+Mean IoU: 0.2100
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS80_cell_x640_y0_w640_h640_png.rf.69afd429333474d514eb85dc3945c595.txt
+Matched Pairs: [(0, 0, 0.7092294425891956), (2, 1, 0.7319177082054875), (3, 5, 0.6951274764745424), (4, 9, 0.7440663218599416), (6, 8, 0.7522205710344448), (7, 2, 0.782042637695822), (8, 6, 0.8422328540212555), (9, 7, 0.730232999344288), (13, 4, 0.6878129960492025), (14, 3, 0.8679546027881565)]
+Mean IoU: 0.5029
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 10
+
+File: MunichStreet02-MOS81_cell_x0_y0_w640_h640_png.rf.3a3c2d67f64ca13da59b36f136033029.txt
+Matched Pairs: [(4, 0, 0.769840396849508)]
+Mean IoU: 0.1283
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS81_cell_x1280_y0_w640_h640_png.rf.012e21b84654a4c77b44f19008e20276.txt
+Matched Pairs: [(0, 1, 0.8634953684318207), (7, 0, 0.8015318989901489)]
+Mean IoU: 0.1281
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS81_cell_x1540_y0_w640_h640_png.rf.a3427680396c1bb863369cb4de145bc5.txt
+Matched Pairs: [(0, 1, 0.8478564476363731), (6, 0, 0.7998251922014563)]
+Mean IoU: 0.1831
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS81_cell_x640_y0_w640_h640_png.rf.96b9ad9858d320a51cadce524f03370d.txt
+Matched Pairs: [(0, 0, 0.7432084767488143), (2, 2, 0.7234756569324053), (3, 7, 0.646461440435111), (4, 8, 0.7404611658503774), (6, 6, 0.796596285107392), (8, 3, 0.7871337574796109), (9, 4, 0.7094533430443952), (14, 5, 0.6974848507953054), (16, 1, 0.8652525393170738)]
+Mean IoU: 0.3947
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS82_cell_x0_y0_w640_h640_png.rf.f0bb8fda78157fa644a3af81aa433965.txt
+Matched Pairs: [(3, 0, 0.637111060664651)]
+Mean IoU: 0.1062
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS82_cell_x1280_y0_w640_h640_png.rf.27b7e89f789709190d428ac28c6f164c.txt
+Matched Pairs: [(0, 1, 0.890265695973054), (7, 0, 0.8915771436831771)]
+Mean IoU: 0.1371
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS82_cell_x1540_y0_w640_h640_png.rf.0049329fad776a53c24c8247ab9e35af.txt
+Matched Pairs: [(0, 1, 0.8046997479993001), (6, 0, 0.91180642011003), (8, 2, 0.8155018339163959)]
+Mean IoU: 0.2813
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS82_cell_x640_y0_w640_h640_png.rf.d1df716fbd512970607893001dacb98e.txt
+Matched Pairs: [(0, 0, 0.7528410620883526), (1, 6, 0.9145063166834551), (2, 2, 0.784361451570001), (3, 7, 0.6065841788615972), (8, 5, 0.7995061657558132), (9, 4, 0.7807589674140776), (14, 3, 0.7722608710540136), (16, 1, 0.8663964239132103)]
+Mean IoU: 0.3692
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 8
+
+File: MunichStreet02-MOS83_cell_x0_y0_w640_h640_png.rf.f1d6c9877039ae6352cf2885b243ffbd.txt
+Matched Pairs: [(3, 0, 0.6178802847192363)]
+Mean IoU: 0.1030
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS83_cell_x1280_y0_w640_h640_png.rf.290416c53e481ddcffd32954e9b86960.txt
+Matched Pairs: [(0, 1, 0.8972889550254698), (7, 0, 0.8188309346602525), (8, 2, 0.7628457001583637), (10, 3, 0.6587180062424313)]
+Mean IoU: 0.2414
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS83_cell_x1540_y0_w640_h640_png.rf.5da83c4145ab5b2f2a4a411f224a6e12.txt
+Matched Pairs: [(0, 2, 0.8518226976924846), (1, 3, 0.6175422425454842), (5, 1, 0.8031339968738496), (7, 0, 0.8288127852596733)]
+Mean IoU: 0.3101
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS83_cell_x640_y0_w640_h640_png.rf.3c6a8e2d0bda3d7b427eb8ef3eb5d4a8.txt
+Matched Pairs: [(0, 2, 0.7527998748662909), (1, 8, 0.8872257353451659), (2, 0, 0.835727319578131), (3, 9, 0.7530863476098201), (5, 6, 0.7913450749412364), (8, 4, 0.8275668177471511), (9, 3, 0.7203483100427523), (10, 7, 0.7347494649615179), (14, 5, 0.7943938218914107), (16, 1, 0.7789215858337674)]
+Mean IoU: 0.4633
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 10
+
+File: MunichStreet02-MOS84_cell_x0_y0_w640_h640_png.rf.29bcc9e096e67fd06ea4fe33be6c5bc0.txt
+Matched Pairs: [(3, 0, 0.7421752593034503)]
+Mean IoU: 0.1237
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS84_cell_x1280_y0_w640_h640_png.rf.5634046c73caaa8f6bbaeb164ea397cd.txt
+Matched Pairs: [(0, 1, 0.8937715587779455), (6, 0, 0.7574704834136848), (7, 2, 0.7469480977738218)]
+Mean IoU: 0.1845
+False Positives: 0
+False Negatives: 10
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS84_cell_x1540_y0_w640_h640_png.rf.6ffb59483002ddc6b638acef224c36ed.txt
+Matched Pairs: [(0, 2, 0.8346851646739529), (1, 3, 0.5827546924597624), (4, 1, 0.7759332745580584), (6, 0, 0.7971899547107464)]
+Mean IoU: 0.3323
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS84_cell_x640_y0_w640_h640_png.rf.d7d82e33f92b4da86b6088698088f2ee.txt
+Matched Pairs: [(0, 2, 0.7103061020860686), (1, 7, 0.8430841358493061), (2, 1, 0.8433152219653267), (3, 6, 0.7211226206442065), (5, 5, 0.7986580602834286), (8, 4, 0.8087663018591297), (9, 3, 0.7977146175462397), (10, 9, 0.8121328489218518), (14, 8, 0.6803512136713725), (16, 0, 0.7731785883544303)]
+Mean IoU: 0.4582
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 10
+
+File: MunichStreet02-MOS85_cell_x0_y0_w640_h640_png.rf.8b5f671181a12566093e1d686a98509d.txt
+Matched Pairs: [(4, 0, 0.6208592056473273)]
+Mean IoU: 0.1035
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS85_cell_x1280_y0_w640_h640_png.rf.870560fc794b2592d55629fc968441fc.txt
+Matched Pairs: [(0, 1, 0.8437851183693992), (1, 3, 0.8908421715142225), (5, 2, 0.8291604526190733), (6, 0, 0.8182035782827765)]
+Mean IoU: 0.2818
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS85_cell_x1540_y0_w640_h640_png.rf.0ba2cde83de21a25433f4595d7dc7fc0.txt
+Matched Pairs: [(0, 1, 0.8927229509227861), (1, 2, 0.5228097719910827), (4, 3, 0.903971668828914), (6, 0, 0.817897313861917)]
+Mean IoU: 0.3486
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS85_cell_x640_y0_w640_h640_png.rf.dacfca8cccf522ef3a6d4460ae8e2dbf.txt
+Matched Pairs: [(0, 4, 0.8302818692166075), (2, 1, 0.7578001502007938), (3, 7, 0.7011523724373759), (5, 6, 0.7868161474704561), (8, 3, 0.8292590826853773), (9, 2, 0.793040034241466), (10, 9, 0.769903469425723), (14, 8, 0.7130014079958271), (16, 0, 0.9235978749457807)]
+Mean IoU: 0.3947
+False Positives: 1
+False Negatives: 8
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS86_cell_x0_y0_w640_h640_png.rf.ae42799261bcc2f72bb84a212894202a.txt
+Matched Pairs: []
+Mean IoU: 0.0000
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 0
+
+File: MunichStreet02-MOS86_cell_x1280_y0_w640_h640_png.rf.af295920ae1bd25c1807a4d0bd3b2ce0.txt
+Matched Pairs: [(0, 2, 0.856055449262984), (1, 3, 0.8983064892760473), (5, 0, 0.8853852915906502), (6, 1, 0.759417194954553)]
+Mean IoU: 0.2833
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS86_cell_x1540_y0_w640_h640_png.rf.853c8d3e1098fef8f750774cb0c2fbaa.txt
+Matched Pairs: [(0, 2, 0.9482410585327181), (4, 0, 0.9160994347771183), (6, 1, 0.7910707660348357)]
+Mean IoU: 0.2950
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS86_cell_x640_y0_w640_h640_png.rf.b11f536ed661b1795e562de956fc8865.txt
+Matched Pairs: [(0, 6, 0.7580874141980672), (2, 1, 0.8960978243021793), (3, 5, 0.744719048284803), (4, 8, 0.8324137646563782), (5, 7, 0.7995633140474546), (6, 9, 0.9296745134202012), (8, 4, 0.7289377312344437), (9, 2, 0.6790245880121629), (16, 0, 0.9315123484882044)]
+Mean IoU: 0.4056
+False Positives: 1
+False Negatives: 8
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS87_cell_x0_y0_w640_h640_png.rf.98384686fc0e10b646a0261cd99a59c7.txt
+Matched Pairs: [(3, 0, 0.5997184426757509)]
+Mean IoU: 0.0857
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS87_cell_x1280_y0_w640_h640_png.rf.a539218d96c9fcf6f70aca0163a4d55c.txt
+Matched Pairs: [(0, 2, 0.9202321348179031), (1, 3, 0.7485478146387567), (5, 0, 0.9418418099857103), (7, 1, 0.7882313454570249)]
+Mean IoU: 0.2615
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS87_cell_x1540_y0_w640_h640_png.rf.ee584c5efc1e3e52dd8ad8585ab464f3.txt
+Matched Pairs: [(0, 2, 0.9202321348179029), (4, 0, 0.8913874916586733), (6, 1, 0.8357687582196838), (7, 3, 0.8741359731915944)]
+Mean IoU: 0.3522
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS87_cell_x640_y0_w640_h640_png.rf.59c177e4da13d762c72abbf7164c86db.txt
+Matched Pairs: [(2, 0, 0.8696204601323047), (3, 5, 0.7224308869769626), (4, 3, 0.7889791837136785), (8, 1, 0.7872623399851862), (9, 4, 0.635493432851151), (16, 2, 0.8961036088661324)]
+Mean IoU: 0.2765
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 6
+
+File: MunichStreet02-MOS88_cell_x0_y0_w640_h640_png.rf.6dfabc759e620b1f1e5842d31214e44c.txt
+Matched Pairs: [(5, 0, 0.7129521446116716)]
+Mean IoU: 0.1019
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS88_cell_x1280_y0_w640_h640_png.rf.6f195e4c6a285b8b0ed4a687db84e544.txt
+Matched Pairs: [(1, 1, 0.9269966639365511), (2, 3, 0.8136473484324173), (7, 2, 0.9279067498939101), (9, 0, 0.7498692576478586)]
+Mean IoU: 0.2279
+False Positives: 0
+False Negatives: 11
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS88_cell_x1540_y0_w640_h640_png.rf.661a6976caae30f44310c3e044bc27ec.txt
+Matched Pairs: [(0, 2, 0.9823560010914267), (4, 3, 0.8832789250575456), (6, 0, 0.8482796493616062), (7, 1, 0.8085587609406488)]
+Mean IoU: 0.3522
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS88_cell_x640_y0_w640_h640_png.rf.9d32974a3f8cb0ef22d3ee240bd69100.txt
+Matched Pairs: [(1, 0, 0.8662332655168241), (2, 6, 0.7181302936898822), (3, 2, 0.7165291844940797), (4, 7, 0.8743205592273026), (7, 3, 0.8422875562948083), (8, 4, 0.7233950545527448), (15, 1, 0.8822276150613332)]
+Mean IoU: 0.3308
+False Positives: 1
+False Negatives: 9
+Number of Matched Pairs: 7
+
+File: MunichStreet02-MOS89_cell_x0_y0_w640_h640_png.rf.0027e1dfa7a96cdfb47d7bd0a1e78484.txt
+Matched Pairs: [(1, 0, 0.7009103400818028), (2, 1, 0.8004455290572712), (3, 3, 0.5959497742575472), (5, 2, 0.7469453833016004)]
+Mean IoU: 0.3555
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS89_cell_x1280_y0_w640_h640_png.rf.d8dcb9423f6646c0e3f9227df560ab82.txt
+Matched Pairs: [(0, 1, 0.8241128510986848), (1, 2, 0.8722377085395931), (6, 3, 0.9034883197970919), (7, 4, 0.9309606176648646), (8, 0, 0.7474815857600233)]
+Mean IoU: 0.3291
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 5
+
+File: MunichStreet02-MOS89_cell_x1540_y0_w640_h640_png.rf.9cb06135b36c4343b7ad19cd0b26a9d2.txt
+Matched Pairs: [(0, 2, 0.8587461809877935), (4, 3, 0.9316025825777314), (5, 1, 0.7908177730568802), (6, 0, 0.7902758920502276)]
+Mean IoU: 0.3746
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS89_cell_x640_y0_w640_h640_png.rf.ea99d7e1c17f0a0da930a257650d8d2a.txt
+Matched Pairs: [(1, 0, 0.7699738566694345), (2, 8, 0.7043308459307337), (3, 9, 0.7669198634071375), (5, 7, 0.7608270517750737), (7, 2, 0.8246163173595922), (8, 5, 0.6776243912362193), (12, 6, 0.7171324823673024), (13, 4, 0.606448855205466), (15, 3, 0.8766173561394005)]
+Mean IoU: 0.3944
+False Positives: 1
+False Negatives: 7
+Number of Matched Pairs: 9
+
+File: MunichStreet02-MOS90_cell_x0_y0_w640_h640_png.rf.2326aa5fb52539bcf5eccfc05b43c3fc.txt
+Matched Pairs: [(1, 0, 0.6969294811730454)]
+Mean IoU: 0.0871
+False Positives: 0
+False Negatives: 7
+Number of Matched Pairs: 1
+
+File: MunichStreet02-MOS90_cell_x1280_y0_w640_h640_png.rf.4189b5615b6d518942a02b3ca3a5ac5a.txt
+Matched Pairs: [(1, 0, 0.9084865288659678), (6, 1, 0.8599435161690294), (9, 2, 0.7919570135447432)]
+Mean IoU: 0.1707
+False Positives: 0
+False Negatives: 12
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS90_cell_x1540_y0_w640_h640_png.rf.230d24fd12efe972c97de271bd6a5f33.txt
+Matched Pairs: [(0, 1, 0.8931384829482555), (1, 3, 0.6305765976727566), (5, 0, 0.8573083352591709), (6, 2, 0.8430155815595992)]
+Mean IoU: 0.3582
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS90_cell_x640_y0_w640_h640_png.rf.7d479dcc9e2ce9af3b7a1f36fcc01d2f.txt
+Matched Pairs: [(1, 2, 0.7692902789377369), (3, 4, 0.791685890772268), (7, 3, 0.8257331045175109), (8, 5, 0.6322134990954088), (15, 1, 0.8476303199855959)]
+Mean IoU: 0.2274
+False Positives: 1
+False Negatives: 11
+Number of Matched Pairs: 5
+
+File: MunichStreet02-MOS91_cell_x0_y0_w640_h640_png.rf.4c0d9b523c5c137d8425eb9f21b75df8.txt
+Matched Pairs: [(1, 0, 0.7039120187223039), (5, 1, 0.6931797733912239)]
+Mean IoU: 0.1746
+False Positives: 0
+False Negatives: 6
+Number of Matched Pairs: 2
+
+File: MunichStreet02-MOS91_cell_x1280_y0_w640_h640_png.rf.a799afc873130c71a0eab336d9fe631e.txt
+Matched Pairs: [(0, 1, 0.8731469657379592), (1, 2, 0.9278626771984565), (5, 4, 0.8834177365849936), (7, 0, 0.889307811652123), (8, 3, 0.7991073341535836)]
+Mean IoU: 0.3123
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 5
+
+File: MunichStreet02-MOS91_cell_x1540_y0_w640_h640_png.rf.1f77ac10176f73fd611bbb9a773fb301.txt
+Matched Pairs: [(0, 2, 0.9083030276733632), (4, 0, 0.8427449735758303), (5, 3, 0.7235872358399997), (6, 1, 0.8022463187625813)]
+Mean IoU: 0.3641
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS91_cell_x640_y0_w640_h640_png.rf.defe8898064b16cb6d15ea0c4f6fffad.txt
+Matched Pairs: [(1, 1, 0.7601035892217917), (3, 4, 0.7817115828990236), (5, 5, 0.9324814005079117), (7, 2, 0.8451999728530714), (8, 3, 0.6517377733466473), (15, 0, 0.9201394297861115)]
+Mean IoU: 0.3057
+False Positives: 0
+False Negatives: 10
+Number of Matched Pairs: 6
+
+File: MunichStreet02-MOS92_cell_x0_y0_w640_h640_png.rf.e55b1e8c61ecfae85d0c1e78b3ad07ee.txt
+Matched Pairs: [(1, 2, 0.6463436315128218), (4, 1, 0.6694977030146932), (5, 0, 0.7586907276323382)]
+Mean IoU: 0.2964
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS92_cell_x1280_y0_w640_h640_png.rf.1b8c129babec775d69b7eddfcd9f5c04.txt
+Matched Pairs: [(0, 4, 0.8720089021012714), (1, 1, 0.9243872746461615), (7, 3, 0.8177574383059938), (9, 2, 0.848603559999777), (10, 0, 0.7359473386858987), (11, 5, 0.8513306500332415)]
+Mean IoU: 0.3156
+False Positives: 0
+False Negatives: 10
+Number of Matched Pairs: 6
+
+File: MunichStreet02-MOS92_cell_x1540_y0_w640_h640_png.rf.a0b73098bb52b91a6ce7ce63e73f504c.txt
+Matched Pairs: [(0, 4, 0.8880678701937079), (1, 3, 0.849920812481896), (2, 5, 0.5653569470591635), (4, 6, 0.8851970651373264), (5, 1, 0.8073390474647951), (6, 2, 0.8672301323393607), (7, 0, 0.7366716266409131)]
+Mean IoU: 0.5600
+False Positives: 0
+False Negatives: 3
+Number of Matched Pairs: 7
+
+File: MunichStreet02-MOS92_cell_x640_y0_w640_h640_png.rf.f5008b815f79a1908a871bed33d42cb9.txt
+Matched Pairs: [(0, 6, 0.8258792894166344), (1, 0, 0.7699630367997281), (2, 5, 0.7614737318147169), (7, 1, 0.8118543981623607), (8, 3, 0.6735057404456581), (15, 2, 0.9096880847986174)]
+Mean IoU: 0.2796
+False Positives: 1
+False Negatives: 10
+Number of Matched Pairs: 6
+
+File: MunichStreet02-MOS93_cell_x0_y0_w640_h640_png.rf.d543daafa1a996adfc98459487f0b6ef.txt
+Matched Pairs: [(2, 1, 0.843778246807644), (5, 0, 0.8327249575212551), (6, 2, 0.7533521136218311)]
+Mean IoU: 0.3037
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 3
+
+File: MunichStreet02-MOS93_cell_x1280_y0_w640_h640_png.rf.69adfad8083d876adcd29c9ef1920e4e.txt
+Matched Pairs: [(0, 3, 0.8157530652215272), (1, 2, 0.9136498487902943), (6, 1, 0.8576773731619083), (7, 0, 0.8293922780539932)]
+Mean IoU: 0.2628
+False Positives: 0
+False Negatives: 9
+Number of Matched Pairs: 4
+
+File: MunichStreet02-MOS93_cell_x1540_y0_w640_h640_png.rf.7ee96d67b7110bcb7cd5d1b6ba24572f.txt
+Matched Pairs: [(0, 2, 0.7954734016074533), (1, 4, 0.9174195030214368), (4, 1, 0.7969885468562717), (5, 3, 0.8415325261466963), (6, 0, 0.8554926404168323)]
+Mean IoU: 0.4674
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 5
+
+File: MunichStreet02-MOS93_cell_x640_y0_w640_h640_png.rf.6191fbc549c548c7f846789537800682.txt
+Matched Pairs: [(0, 6, 0.9029279222704809), (1, 1, 0.7597521087073921), (2, 4, 0.7790548423549873), (5, 7, 0.9027689344376965), (7, 5, 0.8257331045175109), (8, 3, 0.5906800733761275), (15, 0, 0.8633926513292849)]
+Mean IoU: 0.3308
+False Positives: 1
+False Negatives: 9
+Number of Matched Pairs: 7
+
+File: WIN_20241201_12_01_49_Pro_jpg.rf.0ba912fa6e388c80e519c557aca64b22.txt
+Matched Pairs: [(0, 0, 0.79979788983594)]
+Mean IoU: 0.3999
+False Positives: 0
+False Negatives: 1
+Number of Matched Pairs: 1
+
+File: WIN_20241201_12_02_09_Pro_jpg.rf.87d20c861a6204763e99b4745ce0a0c9.txt
+Matched Pairs: [(0, 1, 0.9547883623085066), (1, 2, 0.732506012679271), (2, 0, 0.7836683136925721)]
+Mean IoU: 0.8237
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 3
+
+File: WIN_20241201_12_02_19_Pro_jpg.rf.26a95f3b19b36e0924e9e4521c06c7a0.txt
+Matched Pairs: [(0, 3, 0.5031000700964198), (1, 2, 0.6926757682900154), (2, 0, 0.8376431480328276), (5, 6, 0.7996582092569023), (17, 1, 0.640218364652097), (18, 7, 0.7813172533742873), (20, 9, 0.8274178915438821), (21, 4, 0.8358280191971075), (23, 5, 0.8395661336322312)]
+Mean IoU: 0.2252
+False Positives: 1
+False Negatives: 20
+Number of Matched Pairs: 9
+
+File: WIN_20241201_12_02_27_Pro_jpg.rf.fe178c4ecae5cd06093898d7de96463e.txt
+Matched Pairs: [(0, 2, 0.8613779939442432), (1, 5, 0.8202170991716323), (2, 0, 0.9243318280407564), (3, 8, 0.677975991027772), (4, 1, 0.7992700540277645), (5, 4, 0.7965552655193873), (6, 7, 0.8231631305870553), (7, 3, 0.8184592227387162), (8, 6, 0.8047335282877673)]
+Mean IoU: 0.5233
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 9
+
+File: aerial-vehicles-traveling_png.rf.3dbdfc9dfe87ee4fe64b32d24ea551dd.txt
+Matched Pairs: [(1, 6, 0.8892236709543482), (3, 9, 0.841327544416183), (4, 4, 0.8821586753308639), (6, 5, 0.8977069528739486), (7, 7, 0.7734724160918071), (9, 8, 0.7299614419139654), (12, 2, 0.8507706154307814), (13, 3, 0.7963389798683116), (18, 1, 0.8477376532402031)]
+Mean IoU: 0.2888
+False Positives: 1
+False Negatives: 16
+Number of Matched Pairs: 9
+
+File: car_traffic_in_the_city-Royalty_free_stock_photo_8565_jpg.rf.9dcbff89917968df88ad5a748164b6e4.txt
+Matched Pairs: [(0, 6, 0.7624056854524385), (2, 7, 0.8478570428871788), (3, 3, 0.8518682415653662), (5, 1, 0.8505771197446449), (6, 4, 0.8829516203092937), (7, 9, 0.8374945639608474), (9, 8, 0.8995666053576267), (11, 2, 0.9223634840564068), (12, 5, 0.8715683420379103), (14, 0, 0.9457035292465408)]
+Mean IoU: 0.5782
+False Positives: 0
+False Negatives: 5
+Number of Matched Pairs: 10
+
+File: cars_traffic_bucharest_-_photo_cateyeperspective_dreamstime-com__jpg.rf.d3e9b07350b27644666966e93fc079bb.txt
+Matched Pairs: [(0, 6, 0.7741649431306816), (1, 4, 0.8760281458504288), (2, 3, 0.8138189970162132), (3, 5, 0.9143558531868855), (4, 0, 0.8611031766548932), (5, 8, 0.8020587817677591), (6, 7, 0.8587884797371999), (7, 2, 0.8194062390428637), (8, 9, 0.6485576555009934), (9, 1, 0.9108209487237614)]
+Mean IoU: 0.8279
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 10
+
+File: depositphotos_651933424-stock-video-aerial-top-view-moving-cars_jpg.rf.902a26991058841b220e757299a3427e.txt
+Matched Pairs: [(0, 0, 0.7860904256188093), (1, 1, 0.5145637032658564), (7, 2, 0.8517204597105577)]
+Mean IoU: 0.1196
+False Positives: 0
+False Negatives: 15
+Number of Matched Pairs: 3
+
+File: dji-0181_jpg.rf.71b246aca1c8b3df0907771525362915.txt
+Matched Pairs: [(3, 2, 0.5190086899703164)]
+Mean IoU: 0.0106
+False Positives: 3
+False Negatives: 45
+Number of Matched Pairs: 1
+
+File: feature-done-86-1-_webp.rf.8c83631a654f684884a9beab7cc0c359.txt
+Matched Pairs: [(3, 6, 0.8743409822216898), (5, 2, 0.8283582561058976), (6, 9, 0.7784259365494702), (7, 4, 0.8649686777982896), (9, 7, 0.924161940387803), (11, 8, 0.9042521436402078), (12, 1, 0.8511801826931227), (14, 5, 0.9001682012569044), (15, 3, 0.8741032662789294), (17, 0, 0.8675358568463839)]
+Mean IoU: 0.4815
+False Positives: 0
+False Negatives: 8
+Number of Matched Pairs: 10
+
+File: parkowanie-678x381_webp.rf.1abfe091bff6349c42c610be0e33991d.txt
+Matched Pairs: [(0, 2, 0.8785599765911876), (1, 1, 0.8589696613897141), (2, 0, 0.8539922639067028)]
+Mean IoU: 0.8638
+False Positives: 0
+False Negatives: 0
+Number of Matched Pairs: 3
+
+File: prawidlowe-wymiary-miejsca-parkingowego-parking_jpg.rf.da917fd9a3bb44db7d9f3d657f37c139.txt
+Matched Pairs: [(0, 5, 0.9311258552936205), (3, 2, 0.929330620887012), (4, 1, 0.8678698805851398), (5, 0, 0.8728540311264741), (6, 3, 0.8917602316076818), (7, 4, 0.8741473463800822)]
+Mean IoU: 0.5963
+False Positives: 0
+False Negatives: 3
+Number of Matched Pairs: 6
+
+File: suggested-JxUjjCqODaqwB1Mtxhro_jpg.rf.d8ca7c3e5d966746c1cb5cd919aa769b.txt
+Matched Pairs: [(8, 8, 0.6416161899776779), (10, 9, 0.5207567579268052), (14, 2, 0.6290163735205182), (41, 7, 0.8445381358764377)]
+Mean IoU: 0.0527
+False Positives: 6
+False Negatives: 40
+Number of Matched Pairs: 4
+
+File: video_preview_0000-1-_avif.rf.0781d9923d31d80c231bcb8f305b7d24.txt
+Matched Pairs: []
+Mean IoU: 0.0000
+False Positives: 2
+False Negatives: 25
+Number of Matched Pairs: 0
+
+File: video_preview_0000_avif.rf.5c466820d2ed0382b2b630c4fd5f8a08.txt
+Matched Pairs: [(0, 6, 0.8970898125305079), (1, 5, 0.884275527957204), (2, 1, 0.9078138091924769), (3, 4, 0.9232421537516986), (4, 0, 0.917012924870263), (6, 7, 0.8867218599360757), (8, 3, 0.9405885330259913), (9, 2, 0.8212941998858985), (10, 8, 0.9391642009438343)]
+Mean IoU: 0.6244
+False Positives: 0
+False Negatives: 4
+Number of Matched Pairs: 9
+
+File: z31318917AMP-Samochody-zdjecie-ilustracyjne-_jpg.rf.cf936240066cde3c8ddd5dfbfaaf6cf1.txt
+Matched Pairs: [(5, 4, 0.8404318341441698), (7, 0, 0.8366405081251003), (8, 2, 0.8508484091433943), (9, 3, 0.8283532177420813), (11, 5, 0.8097167112562875), (12, 7, 0.8633830950013585), (19, 6, 0.818605650085868), (22, 9, 0.8048273850511842), (23, 1, 0.8786455145222802), (25, 8, 0.8208181996509262)]
+Mean IoU: 0.2386
+False Positives: 0
+False Negatives: 25
+Number of Matched Pairs: 10
+
+Overall Mean IoU (weighted): 0.2745
+Total False Positives: 22
+Total False Negatives: 1004
